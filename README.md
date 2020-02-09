@@ -27,7 +27,7 @@ The rules were placed in a graph structure and then solved using a heuristic. Th
 
 # The code
 The code has mixed documentation. The main purpose of this code was to accomplish this thesis. Its purpose has never been to be used in a production environment. 
-I choose to publish the code on github for the interesting reader. I will not maintain or extend any of the code. In case an interested reader has questions about any code, please raise an Issue in the Issue tracker and tag me. 
+I choose to publish the code on github for the interested reader. I will not maintain or extend any of the code. In case an interested reader has questions about any code, please raise an Issue in the Issue tracker and tag me. 
 
 ## allocation
 `generate_selection_from_quant_only_all_skus.py` generates an allocation using all orders.
